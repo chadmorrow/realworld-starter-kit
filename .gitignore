@@ -15,3 +15,11 @@
 #System Files
 .DS_Store
 Thumbs.db
+
+
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+*.beam
